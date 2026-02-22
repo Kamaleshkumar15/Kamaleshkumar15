@@ -1,77 +1,82 @@
-<!-- ================= CYBER HEADER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:06b6d4,100:000000&height=280&section=header&text=KAMALESH%20KUMAR%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=260&section=header&text=Kamalesh%20Kumar%20S&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
+<!-- ================= SIDE BY SIDE GIFS ================= -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/matrix.gif" width="100%" height="100px" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkyYWFhaDhtajV3OGRudHc1aDM4a2tqZGg1N2VjMjZ0amp3aHhtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFPce6QriKMC3JPP03/giphy.gif" width="400" height="400"/>
+</td>
 
-<!-- 🔥 Right Side Hacker Coding GIF -->
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" />
+<td align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="400" height="400"/>
+</td>
+</tr>
+</table>
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=06b6d4&width=500&lines=Hi+there!+👋;I'm+Kamalesh+Kumar+S;AI+%26+DS+Student;Full+Stack+Developer;Cyber+Mode+Activated+⚡" />
+<br><br>
+
+<!-- ================= INTRO ================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=42&pause=1000&color=1E90FF&width=750&lines=Hi+there!+👋;I'm+Kamalesh+Kumar+S;AI+%26+Data+Science+Student;Full+Stack+MERN+Developer;Engineering+Scalable+Systems+🚀" />
 </h1>
 
-<h3 align="left">🚀 Pre-Final Year B.Tech AI & Data Science | MERN Developer</h3>
+<h2 align="center">
+🚀 Pre-Final Year B.Tech AI & Data Science | MERN Developer
+</h2>
 
-<p align="left">
+<p align="center" style="font-size:18px;">
 <b>Building scalable systems with clean architecture and intelligent solutions.</b><br>
 Focused on performance optimization and continuous algorithmic growth.
 </p>
 
-<br><br><br><br>
-
-<!-- Secondary Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Full+Stack+MERN+Developer;Competitive+Programmer;Always+Learning+New+Tech+🚀" />
-</p>
+<br>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KamaleshKumarS&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=KamaleshKumarS&label=PROFILE+VIEWS&color=1E90FF&style=for-the-badge" />
 </p>
 
 ---
 
 # 🧠 Core Intelligence
 
-- 🔭 Developing **COLOSHOP – MERN E-commerce Platform**
 - 🧠 Exploring **System Design & Scalable Architectures**
 - 🤝 Open for AI + Full Stack Collaboration
-- ⚡ Debugging = Reverse Engineering Bugs 😈
+- ⚡ Debugging = Reverse Engineering Bugs
 
 ---
 
-# 🛠️ Tech Stack (3D Enhanced)
+# 🛠️ Tech Stack
 
 ### 💻 Programming & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,nodejs,express,mongodb,mysql&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,nodejs,express,mongodb,mysql&theme=dark" height="85"/>
 </p>
 
 ### 🎨 Frontend & Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,figma&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,figma&theme=dark" height="85"/>
 </p>
 
 ---
 
-# 📊 Neural Network Stats
+# 📊 GitHub Analytics
+
+
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KamaleshKumarS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KamaleshKumarS&theme=tokyonight&hide_border=true" />
+  <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=KamaleshKumarS&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophy (Matrix Theme Working)
+# 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73696489/153699723-f8f95732-e42a-458c-8551-991cc657758f.gif" width="520"/>
+  <img src="https://user-images.githubusercontent.com/73696489/153699723-f8f95732-e42a-458c-8551-991cc657758f.gif" width="850"/>
 </p>
 
 ---
@@ -79,39 +84,39 @@ Focused on performance optimization and continuous algorithmic growth.
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://i.sstatic.net/tXpJR.gif" width="600"/>
+  <img src="https://i.sstatic.net/tXpJR.gif" width="950"/>
 </p>
 
 ---
 
-# 🌐 Secure Communication Gateways
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/KamaleshKumarS">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="100"/>
   </a>
-  <a href="https://medium.com/@skamalesh2005">
-    <img src="https://skillicons.dev/icons?i=medium&theme=dark" width="55"/>
-  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/KamaleshKumarS/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="100"/>
+</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kamal3sh_kumarxz">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="55"/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="100"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/kamaleshsubaram1">
-    <img src="https://cdn.simpleicons.org/hackerrank/06b6d4" height="45" />
+    <img src="https://cdn.simpleicons.org/hackerrank/1E90FF" height="90" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/troop_trick_16">
-    <img src="https://cdn.simpleicons.org/codechef/06b6d4" height="45" />
+    <img src="https://cdn.simpleicons.org/codechef/1E90FF" height="90" />
   </a>
 </p>
 
 ---
 
-<!-- ================= CYBER FOOTER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:06b6d4,100:a855f7&height=160&section=footer&text=END+OF+TRANSMISSION...&fontSize=25&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,100:000000&height=200&section=footer&text=Thanks%20for%20Visiting%20💚&fontSize=30&fontColor=ffffff" />
 </p>
