@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=260&section=header&text=Kamalesh%20Kumar%20S&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=280&section=header&text=Kamalesh%20Kumar%20S&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
-<!-- ================= SIDE BY SIDE GIFS ================= -->
 
 <table align="center">
 <tr>
@@ -17,106 +16,100 @@
 
 <br><br>
 
-<!-- ================= INTRO ================= -->
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=42&pause=1000&color=1E90FF&width=750&lines=Hi+there!+👋;I'm+Kamalesh+Kumar+S;AI+%26+Data+Science+Student;Full+Stack+MERN+Developer;Engineering+Scalable+Systems+🚀" />
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" />
+  Hi, I'm <strong>Kamalesh Kumar S</strong>
 </h1>
 
-<h2 align="center">
-🚀 Pre-Final Year B.Tech AI & Data Science | MERN Developer
-</h2>
+<h3>🚀 Pre-Final Year B.Tech AI & Data Science | Full Stack MERN Developer</h3>
 
-<p align="center" style="font-size:18px;">
-<b>Building scalable systems with clean architecture and intelligent solutions.</b><br>
-Focused on performance optimization and continuous algorithmic growth.
+<p align="left">
+  I am a passionate <b>AI & Data Science student</b> and <b>Full-Stack Developer</b> who thrives on building scalable systems with clean architecture. My focus lies at the intersection of <b>Machine Learning</b> and <b>Web Scalability</b>, ensuring that intelligent solutions are not just accurate, but also performant in real-world production environments.
 </p>
 
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/🌍_Based_in-India-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_B.Tech-AI_%26_DS-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Open_To-Collaboration-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Motto-Build_Optimized_Code-1e1e2e?style=for-the-badge" />
+</p>
 
-<!-- Visitor Counter -->
+---
+
+<h3 align="left">🌐 Connect With Me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/KamaleshKumarS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/KamaleshKumarS/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kamaleshsubaram1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kamal3sh_kumarxz">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Technical Ecosystem</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<h3>💻 Core Programming</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" />
+</td>
+<td width="50%" align="center">
+<h3>📚 Frontend Mastery</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,figma&theme=dark" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>⚙️ Backend & DB</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark" />
+</td>
+<td width="50%" align="center">
+<h3>🤖 AI & Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,tensorflow,pytorch&theme=dark" />
+</td>
+</tr>
+</table>
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Journey</h2>
+<p align="center">
+  <img src="https://i.sstatic.net/tXpJR.gif" width="100%"/>
+</p>
+
+---
+
+<h3 align="left">🔭 What I'm Up To:</h3>
+<ul>
+  <li><b>Current Focus:</b> Deep Learning for Predictive Analytics & Advanced MERN Architecture.</li>
+  <li><b>Learning:</b> System Design Patterns and Kubernetes for microservices.</li>
+  <li><b>Fun Fact:</b> I treat debugging like a high-stakes detective case! 🕵️‍♂️</li>
+</ul>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KamaleshKumarS&label=PROFILE+VIEWS&color=1E90FF&style=for-the-badge" />
 </p>
 
----
-
-# 🧠 Core Intelligence
-
-- 🧠 Exploring **System Design & Scalable Architectures**
-- 🤝 Open for AI + Full Stack Collaboration
-- ⚡ Debugging = Reverse Engineering Bugs
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,nodejs,express,mongodb,mysql&theme=dark" height="85"/>
-</p>
-
-### 🎨 Frontend & Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,figma&theme=dark" height="85"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-
-
-<p align="center">
-  <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=KamaleshKumarS&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73696489/153699723-f8f95732-e42a-458c-8551-991cc657758f.gif" width="850"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://i.sstatic.net/tXpJR.gif" width="950"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/KamaleshKumarS">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="100"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/KamaleshKumarS/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="100"/>
-</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kamal3sh_kumarxz">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="100"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/kamaleshsubaram1">
-    <img src="https://cdn.simpleicons.org/hackerrank/1E90FF" height="90" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/troop_trick_16">
-    <img src="https://cdn.simpleicons.org/codechef/1E90FF" height="90" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,100:000000&height=200&section=footer&text=Thanks%20for%20Visiting%20💚&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,100:000000&height=150&section=footer&text=Keep%20Coding%20|%20Keep%20Growing%20🌱&fontSize=25&fontColor=ffffff" width="100%"/>
 </p>
