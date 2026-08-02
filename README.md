@@ -1,147 +1,176 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:0f9b0f&height=260&section=header&text=Hi%20There,%20I'm%20Kamaleshkumar%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2FE86A&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Business+Analyst;Aspiring+AI+Engineer+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+AI+Agents;LangChain+%7C+Hugging+Face+%7C+n8n;Full+Stack+MERN+Developer+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=KAMALESHKUMAR%20S&fontSize=48&fontColor=00ffea&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%7C%20Business%20Analyst%20%7C%20Aspiring%20AI%20Engineer&descAlignY=62&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FFEA&center=true&vCenter=true&repeat=true&width=750&lines=%3E+whoami+%3A+AI+%2B+Full+Stack+Developer;%3E+building+Generative+AI+%26+LLM+Agents;%3E+LangChain+%7C+Hugging+Face+%7C+n8n;%3E+status%3A+open_to_opportunities" />
 
----
+<img src="https://media.giphy.com/media/SWuhIH2sfE3Kw/giphy.gif" width="320"/>
 
-### 🚀 About Me
+</div>
 
-I'm a **Software Developer, Business Analyst, and Aspiring AI Engineer** with hands-on experience in **Generative AI, AI Agent Development, Prompt Engineering, Machine Learning, and AI Automation**. I love building scalable applications, driving data-driven business insights, and designing intelligent workflows using **Python** and modern AI technologies.
+<br>
 
-- 🔭 Currently building **AI agent workflows & automation pipelines**
-- 🌱 Learning **advanced LLM orchestration & system design**
-- 🎓 B.Tech in **Artificial Intelligence & Data Science** — Erode Sengunthar Engineering College *(2023 – 2027, CGPA 8.0/10)*
-- 💼 Ex-Intern @ **Novitech R&D Pvt Ltd** (AI Intern) & **Intopz Technologies Pvt Ltd** (Web Dev Intern)
-- ⚡ Fun fact: I treat debugging like a high-stakes detective case 🕵️‍♂️
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌍_Based_in-India-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓_B.Tech-AI_%26_DS-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝_Open_To-Collaboration-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡_Motto-Build_Optimized_Code-1e1e2e?style=for-the-badge" />
-</p>
+## ⚡ `system.info()`
+
+```yaml
+name: Kamaleshkumar S
+role: Software Developer / Business Analyst / Aspiring AI Engineer
+degree: B.Tech - Artificial Intelligence & Data Science
+college: Erode Sengunthar Engineering College (2023 - 2027)
+cgpa: 8.0 / 10
+focus: Generative AI · AI Agents · Prompt Engineering · AI Automation
+currently_building: Intelligent agent workflows with LangChain + n8n
+fun_fact: "Debugging is just detective work with more coffee ☕"
+```
+
+<br clear="right"/>
 
 ---
 
-### 🌐 Connect With Me
+## 📡 `connect.me()`
 
-<p align="center">
-  <a href="mailto:skamalesh2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Kamaleshkumar15">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<div align="center">
 
-> 📌 Replace the `#` links above with your actual LinkedIn / LeetCode profile URLs.
+[![Gmail](https://img.shields.io/badge/-skamalesh2005%40gmail.com-0f0c29?style=for-the-badge&logo=gmail&logoColor=00FFEA)](mailto:skamalesh2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Kamaleshkumar15-0f0c29?style=for-the-badge&logo=github&logoColor=00FFEA)](https://github.com/Kamaleshkumar15)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00FFEA)](#)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=00FFEA)](#)
+
+*(swap the `#` links with your real LinkedIn / LeetCode URLs)*
+
+</div>
 
 ---
 
-### 🛠️ Technical Ecosystem
+## 🧬 `tech.stack()`
+
+<div align="center">
+
+**Core Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
+
+**AI / ML / GenAI**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=00FFEA" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+
+**Full Stack**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,figma&theme=dark" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+## 💼 `experience.log()`
 
 <table align="center">
-<tr>
-<td width="50%" align="center">
-<h4>💻 Programming & Core CS</h4>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
-</td>
-<td width="50%" align="center">
-<h4>🤖 AI & Machine Learning</h4>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface&theme=dark" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<h4>⚙️ AI Agents & Automation</h4>
-<img src="https://skillicons.dev/icons?i=py&theme=dark" /> <b>LangChain</b> · <b>n8n</b> · <b>API Integration</b>
-</td>
-<td width="50%" align="center">
-<h4>🎨 Web & Full Stack</h4>
-<img src="https://skillicons.dev/icons?i=react,nodejs,figma,git,github&theme=dark" />
-</td>
-</tr>
+<tr><td>
+
+**🤖 Artificial Intelligence Intern** — *Novitech R&D Private Limited*
+`Jan 2026 – Feb 2026`
+- Built AI agent workflows with LangChain, Hugging Face Transformers & API integrations
+- Applied Prompt Engineering + ML to boost task automation accuracy
+- Shipped automation pipelines using **n8n**; benchmarked custom LLM performance
+
+</td></tr>
+<tr><td>
+
+**🌐 Web Development Intern** — *Intopz Technologies Private Limited*
+`May 2025 – Jul 2025`
+- Designed & deployed full-cycle responsive web apps
+- Integrated AI dev utilities for faster code generation, debugging & deployment
+- Evaluated 30+ AI tools to optimize team workflow
+
+</td></tr>
 </table>
 
 ---
 
-### 💼 Experience
+## 🚀 `projects.showcase()`
 
-**Artificial Intelligence Intern** · Novitech R&D Private Limited *(Jan 2026 – Feb 2026)*
-- Built AI agent workflows using LangChain, Hugging Face Transformers, and API integrations
-- Applied Prompt Engineering & ML techniques to enhance task automation
-- Developed automation pipelines with **n8n** and evaluated custom LLM performance
+<details open>
+<summary><b>🔍 AI-Powered Job Search Automation Agent</b></summary>
+<br>
 
-**Web Development Intern** · Intopz Technologies Private Limited *(May 2025 – Jul 2025)*
-- Designed & deployed full-cycle responsive web applications
-- Integrated AI-powered dev utilities for code generation, debugging & deployment
-- Evaluated 30+ AI tools to boost workflow productivity
+Automated job search & aggregation system built with **n8n, APIs, Google Workspace** — intelligent AI filtering delivers personalized real-time job matches, with automated email alerts + cloud storage for placement support.
+</details>
 
----
+<details open>
+<summary><b>🗣️ Gen AI Customer Review Analyzer</b></summary>
+<br>
 
-### 🧩 Featured Projects
+Generative AI analyzer (Python, Hugging Face, Google Colab) processing multilingual e-commerce reviews from **Amazon, Flipkart, Meesho** — auto-translation + deep learning sentiment classification, wrapped in an interactive **Gradio** app with Matplotlib visualizations & Pandas pipelines.
+</details>
 
-| Project | Highlights |
-|---|---|
-| **AI-Powered Job Search Automation Agent** | n8n + APIs + Google Workspace · automated job matching & email notifications |
-| **Gen AI Customer Review Analyzer** | Multilingual sentiment analysis (Amazon/Flipkart/Meesho) · Gradio app · Python, Hugging Face, Pandas, Matplotlib |
-| **Safe Aura – Women Safety Platform** | Government project for Thoothukudi District Police · live SOS alerting dashboard |
+<details open>
+<summary><b>🚨 Safe Aura – Women Safety Platform (Govt. Project)</b></summary>
+<br>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kamaleshkumar15&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamaleshkumar15&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamaleshkumar15&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamaleshkumar15&theme=react-dark&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kamaleshkumar15&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+Tactical safety portal built for the **Thoothukudi District Police** — live SOS communication link with instant alerting through a secure admin dashboard, connecting regional users to field authorities in real time.
+</details>
 
 ---
 
-### 🎓 Education
+## 📊 `stats.render()`
 
-**Erode Sengunthar Engineering College** — B.Tech, Artificial Intelligence & Data Science · CGPA 8.0/10 *(Sept 2023 – May 2027)*
-**Thaai Matric Higher Secondary School** — HSC *(April 2023)*
+<div align="center">
 
-### 🏆 Certifications & Achievements
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kamaleshkumar15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamaleshkumar15&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamaleshkumar15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamaleshkumar15&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kamaleshkumar15&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 🐍 `contribution.snake()`
+
+<div align="center">
+
+<!-- Generate this by adding the snake workflow to your repo (github.com/Platane/snk) -->
+<img src="https://raw.githubusercontent.com/Kamaleshkumar15/Kamaleshkumar15/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> 💡 To activate the snake animation above, add [Platane/snk](https://github.com/Platane/snk)'s GitHub Action to your profile repo — it auto-generates that SVG weekly.
+
+---
+
+## 🎓 `education.log()`
+
+| Institution | Detail | Duration |
+|---|---|---|
+| Erode Sengunthar Engineering College | B.Tech, AI & Data Science · CGPA 8.0/10 | Sept 2023 – May 2027 |
+| Thaai Matric Higher Secondary School | HSC | April 2023 |
+
+## 🏆 `achievements.list()`
+
 - 🥇 Google Developer Groups Recognition — campus developer community leadership
 - 🥇 LeetCode Problem Solving — multiple solution badges
 - 🥇 Coursera Specialization — Amazon Web Application Development
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kamaleshkumar15&label=PROFILE+VIEWS&color=1E90FF&style=for-the-badge" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,100:0f2027&height=150&section=footer&text=Thanks%20for%20visiting!%20🌱&fontSize=25&fontColor=ffffff" width="100%"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Kamaleshkumar15&label=PROFILE+VIEWS&color=00FFEA&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=%3C%2F%3E%20with%20passion%20by%20Kamaleshkumar&fontSize=20&fontColor=00FFEA" width="100%"/>
+
+</div>
