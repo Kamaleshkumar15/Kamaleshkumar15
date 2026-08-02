@@ -3,47 +3,43 @@
 <!-- ============================================================== -->
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Kamaleshkumar%20S&fontSize=46&fontColor=00ffea&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20•%20Business%20Analyst%20•%20Aspiring%20AI%20Engineer&descAlignY=52&descSize=18&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a08&height=200&text=KAMALESHKUMAR%20S&fontSize=38&fontColor=00FF41&animation=fadeIn&fontAlignY=45&desc=root@github:~$%20whoami&descAlignY=68&descSize=16&descColor=39FF14&fontAlign=50" width="100%"/>
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=00FFEA&center=true&vCenter=true&repeat=true&width=760&lines=%3E+building+Generative+AI+%26+LLM+Agents;%3E+LangChain+%7C+Hugging+Face+%7C+n8n;%3E+Python+%7C+Full+Stack+MERN;%3E+status%3A+open_to_opportunities" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&repeat=true&width=800&lines=root%40kamalesh%3A~%24+whoami;%3E+software_developer+%2F+business_analyst;%3E+aspiring_ai_engineer;root%40kamalesh%3A~%24+cat+focus.txt;%3E+generative_ai+%7C+llm_agents+%7C+automation;root%40kamalesh%3A~%24+status+--check;%3E+ACCESS_GRANTED+%E2%9C%93+open_to_opportunities" alt="Typing SVG" />
+</p>
+
+```
+    __ __ ___    __  ______    __    ___________ __  __  _____
+   / //_//   |  /  |/  /   |  / /   / ____/ ___// / / / / ___/
+  / ,<  / /| | / /|_/ / /| | / /   / __/  \__ \/ /_/ /  \__ \ 
+ / /| |/ ___ |/ /  / / ___ |/ /___/ /___ ___/ / __  /_ ___/ / 
+/_/ |_/_/  |_/_/  /_/_/  |_/_____/_____//____/_/ /_/(_)____/  
+
+ SOFTWARE DEVELOPER // BUSINESS ANALYST // ASPIRING AI ENGINEER
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kamaleshkumar15&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/github/followers/Kamaleshkumar15?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+  <a href="mailto:skamalesh2005@gmail.com"><img src="https://img.shields.io/badge/gmail-skamalesh2005%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="https://github.com/Kamaleshkumar15"><img src="https://img.shields.io/badge/github-Kamaleshkumar15-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/linkedin-connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/leetcode-profile-00FF41?style=for-the-badge&logo=leetcode&logoColor=00FF41&labelColor=000000" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kamaleshkumar15&label=PROFILE+VIEWS&color=00ffea&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Kamaleshkumar15?label=FOLLOWERS&style=for-the-badge&color=00ffea&logo=github" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-2ea043?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="mailto:skamalesh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Kamaleshkumar15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-
-<p align="center">
-  <sub>📌 Swap the <code>#</code> links above with your real LinkedIn and LeetCode profile URLs before publishing.</sub>
+  <sub>// swap the <code>#</code> links above with your real LinkedIn and LeetCode URLs before deploying</sub>
 </p>
 
 <div align="center">
 
-**Quick Links:**
-&nbsp;[About](#-about-me)&nbsp;•&nbsp;
-[Tech Stack](#-tech-stack)&nbsp;•&nbsp;
-[Focus Areas](#-focus-areas)&nbsp;•&nbsp;
-[Experience](#-professional-experience)&nbsp;•&nbsp;
-[Projects](#-featured-projects)&nbsp;•&nbsp;
-[Analytics](#-github-analytics)&nbsp;•&nbsp;
-[Education](#-education)&nbsp;•&nbsp;
-[Contact](#-how-to-reach-me)
+`[ABOUT](#-about-me)` &nbsp;`[STACK](#-tech-stack)`&nbsp; `[FOCUS](#-focus-areas)` &nbsp;`[EXPERIENCE](#-professional-experience)`&nbsp; `[PROJECTS](#-featured-projects)` &nbsp;`[ANALYTICS](#-github-analytics)`&nbsp; `[EDUCATION](#-education)` &nbsp;`[CONTACT](#-how-to-reach-me)`
 
 </div>
 
@@ -53,11 +49,22 @@
 <!--                            ABOUT ME                             -->
 <!-- ============================================================== -->
 
-## 🧠 About Me
+## 📟 About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+```bash
+$ ./init_profile.sh --user=kamaleshkumar
 
-I'm a **Software Developer, Business Analyst, and Aspiring AI Engineer** with hands-on experience in **Generative AI, AI Agent Development, Prompt Engineering, Machine Learning, and AI Automation**. I enjoy building scalable applications, turning data into business insight, and designing intelligent, automated workflows using **Python** and modern AI tooling.
+[OK] loading identity...............................DONE
+[OK] role      : Software Developer / Business Analyst / Aspiring AI Engineer
+[OK] focus     : Generative AI | AI Agents | Prompt Engineering | Automation
+[OK] degree    : B.Tech, Artificial Intelligence & Data Science (2023 - 2027)
+[OK] cgpa      : 8.0 / 10
+[OK] building  : intelligent agent workflows with LangChain + n8n
+[OK] learning  : advanced LLM orchestration & system design
+[OK] status    : open_to_opportunities
+
+$ _
+```
 
 - 🔭 Currently building **AI agent workflows and automation pipelines**
 - 🌱 Currently deepening my knowledge of **advanced LLM orchestration and system design**
@@ -66,30 +73,11 @@ I'm a **Software Developer, Business Analyst, and Aspiring AI Engineer** with ha
 - 🤝 Open to internships, freelance work, and collaborative AI/full-stack projects
 - ⚡ Fun fact: I treat debugging like a high-stakes detective case 🕵️‍♂️
 
-<br clear="right"/>
-
-```yaml
-whoami:
-  name: Kamaleshkumar S
-  role: Software Developer / Business Analyst / Aspiring AI Engineer
-  degree: B.Tech - Artificial Intelligence & Data Science
-  college: Erode Sengunthar Engineering College (2023 - 2027)
-  cgpa: 8.0 / 10
-  focus:
-    - Generative AI
-    - AI Agent Development
-    - Prompt Engineering
-    - Machine Learning
-    - AI Automation
-  currently_building: "Intelligent agent workflows with LangChain + n8n"
-  status: "open_to_opportunities"
-```
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🌍_Based_in-India-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓_B.Tech-AI_%26_DS-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝_Open_To-Collaboration-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡_Motto-Build_Optimized_Code-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍_BASED_IN-INDIA-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🎓_B.TECH-AI_%26_DS-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🤝_OPEN_TO-COLLABORATION-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚡_MOTTO-BUILD_OPTIMIZED_CODE-00FF41?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
@@ -100,85 +88,80 @@ whoami:
 
 ## 🧬 Tech Stack
 
+```bash
+$ cat /proc/kamalesh/stack | grep -A2 "core"
+```
+
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**💻 Programming & Core CS**
+**// PROGRAMMING & CORE CS**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Java-00FF41?style=flat-square&logo=openjdk&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/SQL-00FF41?style=flat-square&logo=mysql&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/HTML5-00FF41?style=flat-square&logo=html5&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/CSS3-00FF41?style=flat-square&logo=css3&logoColor=000000&labelColor=000000" />
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 AI & Machine Learning**
+**// AI & MACHINE LEARNING**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface&theme=dark" />
-
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-00A19A?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_Assistants-00A19A?style=flat-square" />
+<img src="https://img.shields.io/badge/TensorFlow-00FF41?style=flat-square&logo=tensorflow&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/PyTorch-00FF41?style=flat-square&logo=pytorch&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Hugging_Face-00FF41?style=flat-square&logo=huggingface&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Generative_AI-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/LLMs-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-00FF41?style=flat-square&labelColor=000000" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**⚙️ AI Agents & Automation**
+**// AI AGENTS & AUTOMATION**
 
-<img src="https://skillicons.dev/icons?i=py&theme=dark" />
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=00FFEA" />
-<img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Integration-1e1e2e?style=flat-square" />
-<img src="https://img.shields.io/badge/Intelligent_Workflows-1e1e2e?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-00FF41?style=flat-square&logo=langchain&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/n8n-00FF41?style=flat-square&logo=n8n&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/API_Integration-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Intelligent_Workflows-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/AI_Assistants-00FF41?style=flat-square&labelColor=000000" />
 
 </td>
 <td width="50%" valign="top">
 
-**🎨 Web & Full Stack**
+**// WEB & FULL STACK**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,figma&theme=dark" />
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Frontend_Development-1e1e2e?style=flat-square" />
-<img src="https://img.shields.io/badge/Figma_UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/React-00FF41?style=flat-square&logo=react&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Node.js-00FF41?style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/MongoDB-00FF41?style=flat-square&logo=mongodb&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Figma-00FF41?style=flat-square&logo=figma&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Frontend_Dev-00FF41?style=flat-square&labelColor=000000" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🛠️ Tools & Platforms**
+**// TOOLS & PLATFORMS**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-00FF41?style=flat-square&logo=git&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/VS_Code-00FF41?style=flat-square&logo=visualstudiocode&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Postman-00FF41?style=flat-square&logo=postman&logoColor=000000&labelColor=000000" />
 
 </td>
 <td width="50%" valign="top">
 
-**🧭 Soft Skills**
+**// SOFT SKILLS**
 
-<img src="https://img.shields.io/badge/Creativity-1e1e2e?style=flat-square" />
-<img src="https://img.shields.io/badge/Analytical_Problem_Solving-1e1e2e?style=flat-square" />
-<img src="https://img.shields.io/badge/Teamwork-1e1e2e?style=flat-square" />
-<img src="https://img.shields.io/badge/Technical_Communication-1e1e2e?style=flat-square" />
+<img src="https://img.shields.io/badge/Creativity-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Analytical_Problem_Solving-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Teamwork-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Technical_Communication-00FF41?style=flat-square&labelColor=000000" />
 
 </td>
 </tr>
@@ -196,30 +179,30 @@ whoami:
 <tr>
 <td width="25%" align="center">
 
-**🤖 AI Agent Development**
+**🤖 AI Agent Dev**
 <br>
-Designing multi-step, tool-using agents
+<sub>multi-step, tool-using agents</sub>
 
 </td>
 <td width="25%" align="center">
 
 **🧩 Prompt Engineering**
 <br>
-Structuring reliable LLM instructions
+<sub>structuring reliable LLM instructions</sub>
 
 </td>
 <td width="25%" align="center">
 
 **⚙️ Workflow Automation**
 <br>
-n8n pipelines and API integrations
+<sub>n8n pipelines + API integrations</sub>
 
 </td>
 <td width="25%" align="center">
 
 **📊 Data-Driven Insight**
 <br>
-Translating data into business decisions
+<sub>translating data into decisions</sub>
 
 </td>
 </tr>
@@ -227,10 +210,10 @@ Translating data into business decisions
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Ask_Me_About-Generative_AI-00ffea?style=for-the-badge&labelColor=1e1e2e" />
-<img src="https://img.shields.io/badge/Ask_Me_About-AI_Agents-00ffea?style=for-the-badge&labelColor=1e1e2e" />
-<img src="https://img.shields.io/badge/Ask_Me_About-n8n_Automation-00ffea?style=for-the-badge&labelColor=1e1e2e" />
-<img src="https://img.shields.io/badge/Ask_Me_About-Full_Stack_Dev-00ffea?style=for-the-badge&labelColor=1e1e2e" />
+<img src="https://img.shields.io/badge/ASK_ME_ABOUT-generative__ai-00FF41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/ASK_ME_ABOUT-ai__agents-00FF41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/ASK_ME_ABOUT-n8n__automation-00FF41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/ASK_ME_ABOUT-full__stack__dev-00FF41?style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -242,10 +225,14 @@ Translating data into business decisions
 
 ## 💼 Professional Experience
 
+```bash
+$ history | grep internship
+```
+
 <table align="center" width="100%">
 <tr><td>
 
-### 🤖 Artificial Intelligence Intern
+### > Artificial Intelligence Intern
 **Novitech R&D Private Limited** &nbsp;·&nbsp; `Jan 2026 – Feb 2026`
 
 - Researched and built AI agent workflows using **LangChain**, **Hugging Face Transformers**, and API integrations
@@ -254,16 +241,16 @@ Translating data into business decisions
 - Collaborated with the R&D team to evaluate custom LLM performance and optimize response accuracy
 
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=00FFEA" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-00A19A?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Hugging_Face-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/n8n-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-00FF41?style=flat-square&labelColor=000000" />
 </p>
 
 </td></tr>
 <tr><td>
 
-### 🌐 Web Development Intern
+### > Web Development Intern
 **Intopz Technologies Private Limited** &nbsp;·&nbsp; `May 2025 – Jul 2025`
 
 - Designed, developed, and deployed full-cycle responsive web applications
@@ -273,10 +260,10 @@ Translating data into business decisions
 - Collaborated with senior mentors in an agile framework to gain industry-standard development exposure
 
 <p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Agile-1e1e2e?style=flat-square" />
+<img src="https://img.shields.io/badge/HTML-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/CSS-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Agile-00FF41?style=flat-square&labelColor=000000" />
 </p>
 
 </td></tr>
@@ -294,23 +281,23 @@ Translating data into business decisions
 <tr>
 <td width="33%" align="center">
 
-**Agentic system design**
+**// agentic_system_design**
 <br>
-<sub>Multi-agent orchestration patterns</sub>
+<sub>multi-agent orchestration patterns</sub>
 
 </td>
 <td width="33%" align="center">
 
-**Vector databases**
+**// vector_databases**
 <br>
-<sub>Retrieval for grounded LLM apps</sub>
+<sub>retrieval for grounded LLM apps</sub>
 
 </td>
 <td width="33%" align="center">
 
-**LLM evaluation**
+**// llm_evaluation**
 <br>
-<sub>Measuring agent reliability</sub>
+<sub>measuring agent reliability</sub>
 
 </td>
 </tr>
@@ -324,19 +311,23 @@ Translating data into business decisions
 
 ## 🚀 Featured Projects
 
+```bash
+$ ls -la ~/projects/
+```
+
 <details open>
-<summary><b>🔍 AI-Powered Job Search Automation Agent</b></summary>
+<summary><b>&gt; AI-Powered Job Search Automation Agent</b></summary>
 <br>
 
 Automated job search and aggregation system built with **n8n**, **APIs**, and **Google Workspace**. Intelligent AI-based filtering and matching algorithms deliver personalized, real-time job recommendations, streamlining the placement process for students through automated email notifications and cloud-based data storage.
 
 <p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Integration-1e1e2e?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Google_Workspace-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/API_Integration-00FF41?style=flat-square&labelColor=000000" />
 </p>
 
-**Highlights**
+**// highlights**
 - Designed the automated aggregation pipeline end-to-end
 - Built AI-based filtering for personalized, real-time job matches
 - Integrated automated email alerts and cloud-based storage for placement support
@@ -344,22 +335,22 @@ Automated job search and aggregation system built with **n8n**, **APIs**, and **
 </details>
 
 <details open>
-<summary><b>🗣️ Gen AI Customer Review Analyzer</b></summary>
+<summary><b>&gt; Gen AI Customer Review Analyzer</b></summary>
 <br>
 
 A Generative AI-powered analysis system built with **Python**, **Hugging Face**, and **Google Colab** to process multilingual e-commerce reviews from **Amazon**, **Flipkart**, and **Meesho**. Combines automated language translation with deep learning sentiment models, wrapped in an interactive **Gradio** web app.
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-<img src="https://img.shields.io/badge/TextBlob-1e1e2e?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenPyXL-1e1e2e?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Hugging_Face-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Gradio-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Pandas-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Matplotlib-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/TextBlob-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/OpenPyXL-00FF41?style=flat-square&labelColor=000000" />
 </p>
 
-**Highlights**
+**// highlights**
 - Integrated automated translation with deep learning sentiment classification
 - Built an interactive Gradio app with live data visualization and dataset handling
 - Processed multilingual reviews across three major e-commerce platforms
@@ -367,18 +358,18 @@ A Generative AI-powered analysis system built with **Python**, **Hugging Face**,
 </details>
 
 <details open>
-<summary><b>🚨 Safe Aura — Women Safety Platform (Government Project)</b></summary>
+<summary><b>&gt; Safe Aura — Women Safety Platform (Government Project)</b></summary>
 <br>
 
 A tactical women's safety portal engineered for the **Thoothukudi District Police**, combining unified hardware and web stacks. Features a live SOS communication link that triggers instant alerting through a secure administration dashboard, connecting regional users to field authorities in real time.
 
 <p>
-<img src="https://img.shields.io/badge/Government_Project-2ea043?style=flat-square" />
-<img src="https://img.shields.io/badge/Real_Time_Alerting-1e1e2e?style=flat-square" />
-<img src="https://img.shields.io/badge/Admin_Dashboard-1e1e2e?style=flat-square" />
+<img src="https://img.shields.io/badge/Government_Project-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Real_Time_Alerting-00FF41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Admin_Dashboard-00FF41?style=flat-square&labelColor=000000" />
 </p>
 
-**Highlights**
+**// highlights**
 - Architected the live SOS communication and alerting system
 - Deployed a stable alert pathway between regional users and field authorities
 - Built for deployment with the Thoothukudi District Police
@@ -386,7 +377,7 @@ A tactical women's safety portal engineered for the **Thoothukudi District Polic
 </details>
 
 <p align="center">
-  <sub>📌 Add your live demo / repository links to each project heading once the repos are public.</sub>
+  <sub>// add live demo / repository links to each project heading once the repos are public</sub>
 </p>
 
 ---
@@ -397,24 +388,28 @@ A tactical women's safety portal engineered for the **Thoothukudi District Polic
 
 ## 📊 GitHub Analytics
 
+```bash
+$ curl -s api.github.com/users/Kamaleshkumar15 | jq '.stats'
+```
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kamaleshkumar15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamaleshkumar15&theme=tokyonight&hide_border=true&background=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kamaleshkumar15&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=39FF14&icon_color=00FF41&border_color=00FF41&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Kamaleshkumar15&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=39FF14&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=39FF14&dates=1B7A1B&hide_border=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamaleshkumar15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamaleshkumar15&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=39FF14" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamaleshkumar15&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamaleshkumar15&bg_color=000000&color=00FF41&line=00FF41&point=39FF14&area_color=00FF41&area=true&title_color=00FF41&border_color=00FF41&hide_border=false" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kamaleshkumar15&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kamaleshkumar15&theme=matrix&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -432,7 +427,7 @@ A tactical women's safety portal engineered for the **Thoothukudi District Polic
 
 </div>
 
-> 💡 The snake animation is generated by a GitHub Action, not a static image — add [`Platane/snk`](https://github.com/Platane/snk) to a workflow in this repository and it will render and refresh automatically on a schedule.
+> `//` the snake animation is generated by a GitHub Action, not a static image — add [`Platane/snk`](https://github.com/Platane/snk) to a workflow in this repository so it renders on a schedule. Set the workflow's `color_snake` / `color_dots` output to a green palette (e.g. `#00FF41` / `#003B00`) to match this theme.
 
 ---
 
@@ -441,6 +436,10 @@ A tactical women's safety portal engineered for the **Thoothukudi District Polic
 <!-- ============================================================== -->
 
 ## 🎓 Education
+
+```bash
+$ cat education.log
+```
 
 | Institution | Detail | Duration |
 |---|---|---|
@@ -455,12 +454,38 @@ A tactical women's safety portal engineered for the **Thoothukudi District Polic
 
 ## 🏆 Certifications & Achievements
 
-- 🥇 **Google Developer Groups Recognition** — awarded for campus developer community leadership
-- 🥇 **LeetCode Problem Solving** — multiple solution badges tracking algorithmic consistency
-- 🥇 **Coursera Specialization** — Amazon Web Application Development
+```bash
+$ ls -la ~/achievements/
+```
+
+- `[VERIFIED]` **Google Developer Groups Recognition** — awarded for campus developer community leadership
+- `[VERIFIED]` **LeetCode Problem Solving** — multiple solution badges tracking algorithmic consistency
+- `[VERIFIED]` **Coursera Specialization** — Amazon Web Application Development
 
 <p align="center">
-  <sub>📌 Link each certification to its verification page once you have the URLs.</sub>
+  <sub>// link each certification to its verification page once you have the URLs</sub>
+</p>
+
+---
+
+<!-- ============================================================== -->
+<!--                        GOALS & ROADMAP                           -->
+<!-- ============================================================== -->
+
+## 🗺️ Goals for This Year
+
+```bash
+$ cat TODO.md
+```
+
+- [ ] Ship an end-to-end multi-agent project with observability and evals
+- [ ] Contribute to an open-source LangChain or Hugging Face community project
+- [ ] Publish write-ups on the AI agent workflows I build
+- [ ] Deepen system design skills for production-grade LLM applications
+- [ ] Grow the projects section above with live demo links and case studies
+
+<p align="center">
+  <sub>// this section is a living checklist — update it as goals are completed or replaced</sub>
 </p>
 
 ---
@@ -471,31 +496,17 @@ A tactical women's safety portal engineered for the **Thoothukudi District Polic
 
 ## 📫 How to Reach Me
 
+```bash
+$ ping kamaleshkumar --contact
+```
+
 <div align="center">
 
 I'm open to **internships, freelance projects, and collaborations** in Generative AI, AI agent development, and full-stack web development. The fastest way to reach me is by email.
 
-<a href="mailto:skamalesh2005@gmail.com"><img src="https://img.shields.io/badge/Email_Me-skamalesh2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:skamalesh2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-skamalesh2005%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" /></a>
 
 </div>
-
----
-
-<!-- ============================================================== -->
-<!--                        GOALS & ROADMAP                           -->
-<!-- ============================================================== -->
-
-## 🗺️ Goals for This Year
-
-- [ ] Ship an end-to-end multi-agent project with observability and evals
-- [ ] Contribute to an open-source LangChain or Hugging Face community project
-- [ ] Publish write-ups on the AI agent workflows I build
-- [ ] Deepen system design skills for production-grade LLM applications
-- [ ] Grow the projects section above with live demo links and case studies
-
-<p align="center">
-  <sub>📌 This section is intentionally a living checklist — update it as goals are completed or replaced.</sub>
-</p>
 
 ---
 
@@ -504,5 +515,5 @@ I'm open to **internships, freelance projects, and collaborations** in Generativ
 <!-- ============================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Thanks%20for%20visiting!%20🌱&fontSize=22&fontColor=00ffea" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a08,100:000000&height=120&text=%3E%20connection_terminated&fontSize=22&fontColor=00FF41&fontAlignY=55" width="100%"/>
 </p>
