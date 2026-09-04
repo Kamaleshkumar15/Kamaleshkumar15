@@ -5,12 +5,7 @@
 <!-- Optional: upload a profile.png to your Kamaleshkumar15 repo and swap the URL below -->
 <!-- <img src="https://raw.githubusercontent.com/Kamaleshkumar15/Kamaleshkumar15/main/profile.png" width="200" style="border-radius:50%;" alt="Kamalesh Kumar S"/> -->
 
-file:///C:/Users/skama/Downloads/light_mode.svg
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="KamaleshKumar15's GitHub profile" src="dark_mode.svg" />
-</picture>
+
 <br/>
 
 <a href="https://git.io/typing-svg">
